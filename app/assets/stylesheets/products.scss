@@ -5,20 +5,18 @@
   table {
     border-collapse: collapse;
   }
-
-table tr td {
-  padding: 5px;
-  vertical-align: top;
-}
+  table tr td {
+    padding: 5px;
+    vertical-align: top;
+  }
 
 .list-image {
-  width: 60px;
-  height: 70px;
+  width: 30px;
+  height: 35px;
 }
 
 .list_description {
   width: 60%;
-
   dl {
     margin: 0;
   }
@@ -27,7 +25,6 @@ table tr td {
     font-weight: bold;
     font-size: larger;
   }
-
   dd {
     margin: 0;
   }
